@@ -1,1 +1,1 @@
-<<<<<<This is my Local saved repo taken to Git.>>>>>>
+This is my Local saved repo taken to Git.
